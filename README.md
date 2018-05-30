@@ -60,6 +60,7 @@
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
 * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
 * [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/junior-developer신입개발자/)
+* [채용시까지] [버즈빌(buzzvil) KR Junior Server Developer](https://buzzvil.workable.com/j/238EF096B2)
 
 ### 이외 채용정보 얻는법
 
